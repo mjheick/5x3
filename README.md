@@ -1,4 +1,4 @@
-# 5x3
+# FiveByThree
 
 Make 5 3-letter words for a unique readable hash
 
